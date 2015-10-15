@@ -43,8 +43,7 @@ seletor {
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/textshadow.php] (http://www.maujor.com/tutorial/interativo-css3/inc/textshadow.php)
-
-
+<br/><br/>
 #####Funcionalidade: Cores RGBA
 #####O que é?
 A propriedade RGBA destina-se a definir cores e transparência com uso de valores RGB (sistema de cores formado por Red, Green e Blue).
@@ -63,8 +62,7 @@ seletor {
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/rgba.php] (http://www.maujor.com/tutorial/interativo-css3/inc/rgba.php)
-
-
+<br/><br/>
 #####Funcionalidade: Transform 2D – Skew
 #####O que é?
 Essa transformação causa a inclinação dos lados de um box em relação aos eixos x e/ou y.
@@ -90,8 +88,7 @@ seletor {
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/skew2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/skew2d.php)
-
-
+<br/><br/>
 #####Funcionalidade: Transform 2D – Translate
 #####O que é?
 Essa transformação causa a translação de um elemento ao longo dos eixos x e/ou y.
@@ -117,8 +114,7 @@ seletor {
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/translate2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/translate2d.php)
-
-
+<br/><br/>
 #####Funcionalidade: Transform 2D – Rotate
 #####O que é?
 Essa transformação causa a rotação de um elemento. A rotação deve ser expressa em medida css para ângulos, ou seja, deg, grad, rad e turn.
@@ -145,8 +141,7 @@ seletor {
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/rotate2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/rotate2d.php)
-
-
+<br/><br/>
 #####Funcionalidade: Transform 2D – Scale
 #####O que é?
 Essa transformação causa o aumento/redução das dimensões de um elemento ao longo dos eixos x e/ou y.
@@ -172,8 +167,7 @@ seletor {
 ```css
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/scale2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/scale2d.php)
-
-
+<br/><br/>
 #####Funcionalidade: Expressões Matemáticas
 #####O que é?
 A função calc() permite que se definam valores css com uso de expressões matemáticas, ou seja, o valor adotado para a propriedade é o resultado de uma expressão matemática.
@@ -194,8 +188,7 @@ width: calc(100% - 100px);
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/css3-funcao-css-calc.php] (http://www.maujor.com/tutorial/css3-funcao-css-calc.php)
-
-
+<br/><br/>
 #####Funcionalidade: Box Shadow
 #####O que é?
 Essa transformação aplica sombras em box’s, ou qualquer tipo de elemento em uma página html.
@@ -218,8 +211,7 @@ seletor {
 #####Referência:
 [http://www.linhadecodigo.com.br/artigo/3633/entendendo-o-atributo-box-shadow-nas-css3.aspx] (http://www.linhadecodigo.com.br/artigo/3633/entendendo-o-atributo-box-shadow-nas-css3.aspx)
 [http://www.w3schools.com/cssref/css3_pr_box-shadow.asp] (http://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
-
-
+<br/><br/>
 #####Funcionalidade: Gradiente
 #####O que é?
 Gradientes permitem exibir transições suaves entre duas ou mais cores especificadas.
@@ -249,3 +241,4 @@ seletor {
 ```
 #####Referência:
 [http://www.w3schools.com/css/css3_gradients.asp] (http://www.w3schools.com/css/css3_gradients.asp)
+<br/><br/>
