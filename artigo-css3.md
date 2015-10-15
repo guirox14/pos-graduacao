@@ -69,7 +69,7 @@ Essa transformação causa a inclinação dos lados de um box em relação aos e
 #####Onde usar:
 Em qualquer elemento que possui o atributo transform.
 #####Como usar:
-Os valores da inclinação devem ser especificados em medida css para ângulos, ou seja, deg, grad, rad e turn. São admitidos valores negativos e positivos causando inclinação em um ou outro sentido.
+Os valores da inclinação devem ser especificados em medida css para ângulos, ou seja, *deg, grad, rad* e *turn*. São admitidos valores negativos e positivos causando inclinação em um ou outro sentido.
 ```css
 seletor { transform: skew(adeg, ßdeg); } 
 seletor { transform: skewX(adeg); } 
@@ -117,7 +117,7 @@ seletor {
 <br/><br/>
 #####Funcionalidade: Transform 2D – Rotate
 #####O que é?
-Essa transformação causa a rotação de um elemento. A rotação deve ser expressa em medida css para ângulos, ou seja, deg, grad, rad e turn.
+Essa transformação causa a rotação de um elemento. A rotação deve ser expressa em medida css para ângulos, ou seja, *deg, grad, rad* e *turn*.
 #####Onde usar:
 Em qualquer elemento que possui o atributo transform.
 #####Como usar:
