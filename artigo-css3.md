@@ -1,9 +1,9 @@
-####UNIVERSIDADE DO OESTE DE SANTA CATARINA – UNOESC
-####PÓS-GRADUAÇÃO EM DESENVOLVIMENTO WEB, CLOUD E DISPOSITIVOS MÓVEIS - WEBMOB
-####DISCIPLINA: HTML5+CSS3
-####PROFESSOR: JEAN CARLO NASCIMENTO
-####ACADÊMICO: MAURÍCIO ALBERTO GRANDO
-###ARTIGO DE REVISÃO DE CSS3
+####Universidade do Oeste de Santa Catarina – Unoesc
+####Pós-Graduação em Desenvolvimento Web, Cloud e Dispositivos Móveis - WebMob
+####Disciplina: HTML5+CSS3
+####Professor: Jean Carlo Nascimento
+####Acadêmico: Maurício Alberto Grando
+###Artigo de Revisão de CSS3
 
 #####Funcionalidade: Cores HSLA
 #####O que é?
