@@ -46,15 +46,15 @@ seletor {
 <br/><br/>
 #####Funcionalidade: Cores RGBA
 #####O que é?
-A propriedade RGBA destina-se a definir cores e transparência com uso de valores RGB (sistema de cores formado por Red, Green e Blue).
+A propriedade RGBA destina-se a definir cores e transparência com uso de valores RGB (sistema de cores formado por **R**ed, **G**reen e **B**lue).
 #####Onde usar:
-Em qualquer elemento que possui propriedades de cor. Exemplos: color, background, border-color, etc).
+Em qualquer elemento que possui propriedades de cor. Exemplos: color, background, border-color, etc.
 #####Como usar:
 ```css
 seletor { propriedade: rgba(R, G, B, A); }
 ```
 #####Exemplo de uso:
-A sintaxe geral para aplicar cores é mostrada a seguir.
+A sintaxe geral para aplicar cores e transparência RGB é mostrada a seguir.
 ```css
 seletor { 
       background: rgba(0, 0, 0, 1);
