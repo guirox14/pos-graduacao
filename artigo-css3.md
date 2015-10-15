@@ -21,8 +21,9 @@ seletor {
      background: hsla(0, 0%, 0%, 1); 
 }
 ```
-#####Referencia:
+#####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/hsla.php] (http://www.maujor.com/tutorial/interativo-css3/inc/hsla.php)
+
 
 #####Funcionalidade: Text Shadow
 #####O que é?
@@ -34,15 +35,16 @@ Em qualquer elemento que possui o atributo text.
 seletor { propriedade: offsetX offsetY raioBlur cor [,offsetX offsetY raioBlur cor];}
 ```
 Os valores de raioBlur e cor são opcionais.
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar sombreamento é mostrada a seguir.
 ```css
 seletor { 
       text-shadow: 0 0 0 0 none;
 }
 ```
-#####Referencia:
+#####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/textshadow.php] (http://www.maujor.com/tutorial/interativo-css3/inc/textshadow.php)
+
 
 #####Funcionalidade: Cores RGBA
 #####O que é?
@@ -53,15 +55,16 @@ Em qualquer elemento que possui propriedades de cor. Exemplos: color, background
 ```css
 seletor { propriedade: rgba(R, G, B, A); }
 ```
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar cores é mostrada a seguir.
 ```css
 seletor { 
       background: rgba(0, 0, 0, 1);
 }
 ```
-#####Referencia:
+#####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/rgba.php] (http://www.maujor.com/tutorial/interativo-css3/inc/rgba.php)
+
 
 #####Funcionalidade: Transform 2D – Skew
 #####O que é?
@@ -75,7 +78,7 @@ seletor { transform: skew(adeg, ßdeg); }
 seletor { transform: skewX(adeg); } 
 seletor { transform: skewY(ßdeg); }
 ```
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar skew é mostrada a seguir.
 ```css
 seletor {
@@ -89,6 +92,7 @@ seletor {
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/skew2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/skew2d.php)
 
+
 #####Funcionalidade: Transform 2D – Translate
 #####O que é?
 Essa transformação causa a translação de um elemento ao longo dos eixos x e/ou y.
@@ -101,7 +105,7 @@ seletor { transform: translate(x, y); }
 seletor { transform: translateX(x); } 
 seletor { transform: translateY(y); }
 ```
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar translate é mostrada a seguir.
 ```css
 seletor {
@@ -114,6 +118,7 @@ seletor {
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/translate2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/translate2d.php)
+
 
 #####Funcionalidade: Transform 2D – Rotate
 #####O que é?
@@ -128,7 +133,7 @@ seletor {transform: rotateX(adeg); }
 seletor {transform: rotateY(adeg); } 
 seletor {transform: rotateZ(adeg); }
 ```
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar rotação é mostrada a seguir.
 ```css
 seletor {
@@ -142,6 +147,7 @@ seletor {
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/rotate2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/rotate2d.php)
 
+
 #####Funcionalidade: Transform 2D – Scale
 #####O que é?
 Essa transformação causa o aumento/redução das dimensões de um elemento ao longo dos eixos x e/ou y.
@@ -154,7 +160,7 @@ seletor { transform: scale(x, y); }
 seletor { transform: scaleX(x); } 
 seletor { transform: scaleY(y); }
 ```css
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar aumento/redução das dimensões é mostrada a seguir.
 ```css
 seletor {
@@ -168,6 +174,7 @@ seletor {
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/scale2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/scale2d.php)
 
+
 #####Funcionalidade: Expressões Matemáticas
 #####O que é?
 A função calc() permite que se definam valores css com uso de expressões matemáticas, ou seja, o valor adotado para a propriedade é o resultado de uma expressão matemática.
@@ -179,7 +186,7 @@ Na expressão matemática que define o valor css é permitido que sejam misturad
 ```css
 seletor { propriedade: calc(expressão matemática); }
 ```
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar expressões matemáticas nos atributos é mostrada a seguir.
 ```css
 seletor {
@@ -188,6 +195,7 @@ width: calc(100% - 100px);
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/css3-funcao-css-calc.php] (http://www.maujor.com/tutorial/css3-funcao-css-calc.php)
+
 
 #####Funcionalidade: Box Shadow
 #####O que é?
@@ -199,7 +207,7 @@ Em qualquer elemento.
 ```css
 seletor { propriedade: none|h-shadow v-shadow blur spread color |inset|initial|inherit; }
 ```
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar sombreamento em caixas é mostrada a seguir.
 ```css
 seletor {
@@ -212,6 +220,7 @@ seletor {
 [http://www.linhadecodigo.com.br/artigo/3633/entendendo-o-atributo-box-shadow-nas-css3.aspx] (http://www.linhadecodigo.com.br/artigo/3633/entendendo-o-atributo-box-shadow-nas-css3.aspx)
 [http://www.w3schools.com/cssref/css3_pr_box-shadow.asp] (http://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
 
+
 #####Funcionalidade: Gradiente
 #####O que é?
 Gradientes permitem exibir transições suaves entre duas ou mais cores especificadas.
@@ -223,7 +232,7 @@ Existem dois tipos de gradientes: linear (são definidas pelo menos duas cores d
 seletor { propriedade: linear-gradient(direction, color-stop1, color-stop2, ...);}
 seletor { propriedade: radial-gradient(shape size at position, start-color, ..., last-color);}
 ```
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar gradiente (linear e radial) pode variar conforme o navegador utilizado. Abaixo são exibidas sintaxes para alguns navegadores.
 ```css
 seletor {
