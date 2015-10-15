@@ -1,25 +1,27 @@
-UNIVERSIDADE DO OESTE DE SANTA CATARINA – UNOESC
-PÓS-GRADUAÇÃO EM DESENVOLVIMENTO WEB, CLOUD 
-E DISPOSITIVOS MÓVEIS - WEBMOB
+                        #**UNIVERSIDADE DO OESTE DE SANTA CATARINA – UNOESC**
+                        #**PÓS-GRADUAÇÃO EM DESENVOLVIMENTO WEB, CLOUD E DISPOSITIVOS MÓVEIS - WEBMOB**
 
 
 
-MAURÍCIO ALBERTO GRANDO
+                                                  #**MAURÍCIO ALBERTO GRANDO**
 
 
 
-ARTIGO DE REVISÃO DE CSS3
+                                                  #**ARTIGO DE REVISÃO DE CSS3**
 
 
 
 
 
-DISCIPLINA: HTML5+CSS3
-PROFESSOR: JEAN CARLO NASCIMENTO
+                                                  #**DISCIPLINA: HTML5+CSS3**
+                                                  #**PROFESSOR: JEAN CARLO NASCIMENTO**
+                                                  
+                                                  
+                                                  #**CHAPECÓ**
+                                                  #**2015**
 
 
-CHAPECÓ
-2015
+
 Funcionalidade: Cores HSLA
 O que é?
 A propriedade HSLA destina-se a definir cores e transparência com uso de valores para matiz (Hue), saturação (Saturation) e luminosidade (Lightness).
