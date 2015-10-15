@@ -35,7 +35,7 @@ seletor { propriedade: offsetX offsetY raioBlur cor [,offsetX offsetY raioBlur c
 ```
 Os valores de raioBlur e cor são opcionais.
 #####Exemplo de uso:
-A sintaxe geral para aplicar sombreamento é mostrada a seguir.
+A sintaxe geral para aplicar sombreamento em textos é mostrada a seguir.
 ```css
 seletor { 
       text-shadow: 0 0 0 0 none;
