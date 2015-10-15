@@ -14,7 +14,7 @@ Em qualquer elemento que possui o atributo background.
 ``` css
 seletor { propriedade: hsla(H, S, L, A); } 
 ```
-#####Exemplo de uso
+#####Exemplo de uso:
 A sintaxe geral para aplicar cores e transparência é mostrada a seguir.
 ``` css
 seletor { 
@@ -23,8 +23,7 @@ seletor {
 ```
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/hsla.php] (http://www.maujor.com/tutorial/interativo-css3/inc/hsla.php)
-
-
+<br/><br/>
 #####Funcionalidade: Text Shadow
 #####O que é?
 A propriedade text-shadow destina-se a definir sombras em textos.
