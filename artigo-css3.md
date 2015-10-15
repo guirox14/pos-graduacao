@@ -153,7 +153,7 @@ Valores maiores que 1 expressam aumento e valores entre 0 e 1 diminuição das d
 seletor { transform: scale(x, y); } 
 seletor { transform: scaleX(x); } 
 seletor { transform: scaleY(y); }
-```css
+```
 #####Exemplo de uso:
 A sintaxe geral para aplicar aumento/redução das dimensões é mostrada a seguir.
 ```css
@@ -164,7 +164,7 @@ seletor {
   -ms-transform: scale(1, 1);
   transform: scale(1, 1);
 }
-```css
+```
 #####Referência:
 [http://www.maujor.com/tutorial/interativo-css3/inc/scale2d.php] (http://www.maujor.com/tutorial/interativo-css3/inc/scale2d.php)
 <br/><br/>
