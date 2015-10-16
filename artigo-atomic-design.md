@@ -38,7 +38,7 @@ Os átomos do item anterior foram agrupados, criando uma estrutura com possível
 Foi criado um novo componente a partir da junção da molécula do item anterior, somada a outras moléculas já criadas.</br>
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555514/baa958ba-7446-11e5-9ccd-f20fdd806507.png"/></br>
 #####5.4 Templates
-Foi aplicado o organismo do item anterior num wireframete, dando forma à página inicial do site.</br>
+Foi aplicado o organismo do item anterior num wireframe, dando forma à página inicial do site.</br>
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555515/baa9c5ac-7446-11e5-9eac-aadf05215071.png"/></br>
 #####5.5 Pages
 Por fim, foi criada a página real, utilizando os átomos, moléculas, organismos e o template dos itens anteriores.</br>
