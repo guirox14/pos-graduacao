@@ -29,5 +29,12 @@ O Pattern Lab também é utilizado para validar os componentes em vários browse
 #####5. Exemplos
 Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das [Ferramentas Gerais] (http://www.fg.com.br).
 #####Átomos
-
-<img src="http://www.grupodallas.com.br/dallasevoce/wp-content/uploads/2011/09/SALAME.bmp"/>
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555517/bab47aec-7446-11e5-8a0c-b9a3ba5877db.png"/></br>
+#####Moléculas
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555518/babaab74-7446-11e5-824f-aed4ffbb3e6e.png"/></br>
+#####Organismos
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555514/baa958ba-7446-11e5-9ccd-f20fdd806507.png"/></br>
+#####Templates
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555515/baa9c5ac-7446-11e5-9eac-aadf05215071.png"/></br>
+#####Pages
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555516/baafe8f6-7446-11e5-9731-10cb8bd39f16.png"/></br>
