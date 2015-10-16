@@ -28,13 +28,18 @@ O Pattern Lab também é utilizado para validar os componentes em vários browse
 #####4. Onde usar
 #####5. Exemplos
 Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das [Ferramentas Gerais] (http://www.fg.com.br).
-#####5.1 Átomos
+#####  5.1 Átomos
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555517/bab47aec-7446-11e5-8a0c-b9a3ba5877db.png"/></br>
-#####5.2 Moléculas
+#####  5.2 Moléculas
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555518/babaab74-7446-11e5-824f-aed4ffbb3e6e.png"/></br>
-#####5.3 Organismos
+#####  5.3 Organismos
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555514/baa958ba-7446-11e5-9ccd-f20fdd806507.png"/></br>
-#####5.4 Templates
+#####  5.4 Templates
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555515/baa9c5ac-7446-11e5-9eac-aadf05215071.png"/></br>
-#####5.5 Pages
+#####  5.5 Pages
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555516/baafe8f6-7446-11e5-9731-10cb8bd39f16.png"/></br>
+#####6. Referências
+[http://bradfrost.com/blog/post/atomic-web-design/] (http://bradfrost.com/blog/post/atomic-web-design/)
+[http://tableless.com.br/o-que-e-design-atomic/] (http://tableless.com.br/o-que-e-design-atomic/)
+[http://patternlab.io/] (http://patternlab.io/)
+[http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/] (http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/)
