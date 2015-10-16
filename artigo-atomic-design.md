@@ -39,7 +39,7 @@ Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das
 #####  5.5 Pages
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555516/baafe8f6-7446-11e5-9731-10cb8bd39f16.png"/></br>
 #####6. Referências
-[http://bradfrost.com/blog/post/atomic-web-design/] (http://bradfrost.com/blog/post/atomic-web-design/)
-[http://tableless.com.br/o-que-e-design-atomic/] (http://tableless.com.br/o-que-e-design-atomic/)
-[http://patternlab.io/] (http://patternlab.io/)
-[http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/] (http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/)
+[http://bradfrost.com/blog/post/atomic-web-design/] (http://bradfrost.com/blog/post/atomic-web-design/)</br>
+[http://tableless.com.br/o-que-e-design-atomic/] (http://tableless.com.br/o-que-e-design-atomic/)</br>
+[http://patternlab.io/] (http://patternlab.io/)</br>
+[http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/]</br> (http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/)</br>
