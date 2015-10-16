@@ -27,3 +27,5 @@ O Pattern Lab também é utilizado para validar os componentes em vários browse
 
 #####4. Onde usar
 #####5. Exemplos
+Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das Ferramentas Gerais ([www.fg.com.br](www.fg.com.br)).
+#####Átoms
