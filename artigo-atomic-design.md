@@ -24,6 +24,7 @@ O Pattern Lab também é utilizado para validar os componentes em vários browse
 *	O sistema passa a ter maior escalabilidade e coerência enquanto mostra simultaneamente as coisas em seu contexto final. Não existem breakpoints ou devices específicos para montar a interface, e sim elementos que se comportam adequadamente a todos eles.
 *	Agilidade na alteração de componentes: como é baseado em componentes, qualquer alteração pode ser feita uma única vez e todos os templates que usam esse componente já estarão alterados.
 *	Centralização de informações: ao utilizar o Pattern Lab, o time de desenvolvimento tem em mãos uma biblioteca centralizada com informações de cada componente. Isso torna fácil o acesso às funcionalidades.
+
 #####4. Onde usar
 #####5. Exemplos
 Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das [Ferramentas Gerais] (http://www.fg.com.br).
