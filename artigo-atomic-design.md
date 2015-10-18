@@ -25,11 +25,9 @@ O Pattern Lab também é utilizado para validar os componentes em vários browse
 *	O sistema passa a ter maior escalabilidade e coerência enquanto mostra simultaneamente as coisas em seu contexto final. Não existem breakpoints ou devices específicos para montar a interface, e sim elementos que se comportam adequadamente a todos eles.
 *	Agilidade na alteração de componentes: como é baseado em componentes, qualquer alteração pode ser feita uma única vez e todos os templates que usam esse componente já estarão alterados.
 *	Centralização de informações: ao utilizar o Pattern Lab, o time de desenvolvimento tem em mãos uma biblioteca centralizada com informações de cada componente. Isso torna fácil o acesso às funcionalidades.
-
 #####4. Onde usar
-Em projetos de médio a grande porte. Não faz sentido criar toda uma biblioteca (Pattern Lab) centralizada de componentes se o projeto tiver apenas um ou dois templates. A técnica do design atômico mostra seu propósito quando temos vários componentes que serão usados em uma grande quantidade de templates e páginas.</br></br>
-Vale destacar que o time precisa ter bastante confiança entre si, pois nem tudo será documentado. Exemplo: o componente que monta um header na página será o mesmo para as demais páginas, não sendo necessário documentar cada parte do header em cada templates de página.
-
+Em projetos de médio a grande porte. Não faz sentido criar toda uma biblioteca (Pattern Lab) centralizada de componentes se o projeto tiver apenas um ou dois templates. A técnica do design atômico mostra seu propósito quando existem vários componentes que serão usados em uma grande quantidade de templates e páginas.</br></br>
+Vale destacar que o time precisa ter bastante confiança entre si, pois nem tudo será documentado. Por exemplo: o componente que monta um *header* na página inicial será o mesmo para as demais páginas, não sendo necessário documentar cada parte do *header* em cada template de página.
 #####5. Exemplos
 Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das [Ferramentas Gerais] (http://www.fg.com.br).
 #####5.1 Átomos
