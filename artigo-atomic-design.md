@@ -29,20 +29,20 @@ O Pattern Lab também é utilizado para validar os componentes em vários browse
 Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das [Ferramentas Gerais] (http://www.fg.com.br).
 #####5.1 Átomos
 Tags htmls que por si só não úteis, pois não existe vínculo entre elas.</br>
-<img src="https://cloud.githubusercontent.com/assets/15130723/10555517/bab47aec-7446-11e5-8a0c-b9a3ba5877db.png"/></br>
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555517/bab47aec-7446-11e5-8a0c-b9a3ba5877db.png" alt="atoms" title="Atoms"/></br>
 #####5.2 Moléculas
 Os átomos do item anterior foram agrupados, criando uma estrutura com possível utilidade para quem está usando.</br>
-<img src="https://cloud.githubusercontent.com/assets/15130723/10555518/babaab74-7446-11e5-824f-aed4ffbb3e6e.png"/></br>
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555518/babaab74-7446-11e5-824f-aed4ffbb3e6e.png" alt="molecules" title="Molecules"/></br>
 #####5.3 Organismos
 Foi criado um novo componente a partir da junção da molécula do item anterior, somada a outras moléculas já criadas.</br>
-<img src="https://cloud.githubusercontent.com/assets/15130723/10555514/baa958ba-7446-11e5-9ccd-f20fdd806507.png"/></br>
+<img src="https://cloud.githubusercontent.com/assets/15130723/10566802/7e736888-75cf-11e5-8e46-4116e9501175.png" alt="organisms" title="Organisms"/></br>
 #####5.4 Templates
 Foi aplicado o organismo do item anterior num wireframe, dando forma à página inicial do site.</br>
-<img src="https://cloud.githubusercontent.com/assets/15130723/10555515/baa9c5ac-7446-11e5-9eac-aadf05215071.png"/></br>
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555515/baa9c5ac-7446-11e5-9eac-aadf05215071.png" alt="templates" title="Templates"/></br>
 #####5.5 Pages
 Por fim, foi criada a página real, utilizando os átomos, moléculas, organismos e o template dos itens anteriores.</br>
 Esta é a página que será entregue ao cliente para posterior avaliação/testes.</br>
-<img src="https://cloud.githubusercontent.com/assets/15130723/10555516/baafe8f6-7446-11e5-9731-10cb8bd39f16.png"/></br>
+<img src="https://cloud.githubusercontent.com/assets/15130723/10555516/baafe8f6-7446-11e5-9731-10cb8bd39f16.png" alt="pages" title="Pages"/></br>
 #####6. Referências
 [http://bradfrost.com/blog/post/atomic-web-design/] (http://bradfrost.com/blog/post/atomic-web-design/)</br>
 [http://tableless.com.br/o-que-e-design-atomic/] (http://tableless.com.br/o-que-e-design-atomic/)</br>
