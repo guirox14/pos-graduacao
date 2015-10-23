@@ -30,7 +30,7 @@ O Pattern Lab também é utilizado para validar os componentes em vários browse
 Em projetos de médio a grande porte. Não faz sentido criar toda uma biblioteca (Pattern Lab) centralizada de componentes se o projeto tiver apenas um ou dois templates. A técnica do design atômico mostra seu propósito quando existem vários componentes que serão usados em uma grande quantidade de templates e páginas.</br></br>
 Vale destacar que o time precisa ter bastante confiança entre si, pois nem tudo será documentado. Por exemplo: o componente que monta um *header* na página inicial será o mesmo para as demais páginas, não sendo necessário documentar cada parte do *header* em cada template de página.
 #####5. Exemplos
-Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das [Ferramentas Gerais] (http://www.fg.com.br).
+Seguem abaixo exemplos de cada etapa do atomic design aplicado num site real das Ferramentas Gerais site: (http://www.fg.com.br).
 #####5.1 Átomos
 Tags htmls que por si só não úteis, pois não existe vínculo entre elas.</br>
 <img src="https://cloud.githubusercontent.com/assets/15130723/10555517/bab47aec-7446-11e5-8a0c-b9a3ba5877db.png" alt="atoms" title="Atoms"/></br>
